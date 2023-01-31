@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "PROJETO DO ZERO",
+			"path": "PROJETO DO ZERO"
+		},
+		{
+			"name": "NLW-SETUP",
+			"path": "../NLW-SETUP"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PROJETO DO ZERO"
+	}
+}
